@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/src/debug/assets" />
+    </dataSet>
+
+</merger>

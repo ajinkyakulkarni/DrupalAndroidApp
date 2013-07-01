@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372197552000 1207 beed13cb203cff39c0968cb2ebdd9347e9ad9301 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/values/values.xml
+1372614334000 1968 75fbe1b91a060af1c4d2f3cec392fe177e1161a1 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/layout/activity_main.xml
+1371784991000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/values-v14/values.xml
+1371784991000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/drawable-xxhdpi/ic_launcher.png
+1371784991000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/menu/main.xml
+1371784991000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/drawable-hdpi/ic_launcher.png
+1372188107000 342 0ea8934a4834effd17751ed74bf7b2a1b0fc1ae5 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/values-large/values.xml
+1371784991000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/values-v11/values.xml
+1371784991000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/drawable-mdpi/ic_launcher.png
+1371784991000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/values-sw720dp-land/values.xml
+1372189531000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/menu/login.xml
+1371789212000 276 a8c32eb9e696c4e873e4c319b57bdfd12f2eecda /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/layout/activity_display_message.xml
+1372192116000 2469 ed32eff6fdf34bcfe46092e846739d6d3c46460e /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/layout/activity_login1.xml
+1371784991000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/drawable-xhdpi/ic_launcher.png
+1371789212000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/menu/display_message.xml
+1372197552000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/menu/add_article.xml
+1372197552000 2239 e5a592f04e33abb8ecabfb9f07f0d1730713cacf /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/res/all/release/layout/activity_add_article.xml

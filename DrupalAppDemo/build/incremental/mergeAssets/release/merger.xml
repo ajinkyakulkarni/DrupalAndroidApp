@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/src/release/assets" />
+    </dataSet>
+
+</merger>

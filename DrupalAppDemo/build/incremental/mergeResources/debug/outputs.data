@@ -1,0 +1,19 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372706836000 1752 016984ca27064a04bc472412a39b5734aa1e98be /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/layout/activity_main.xml
+1372189523000 3760 9d45e7de00dac30e9738dc369dece2835bf9677e /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1372197536000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/menu/add_article.xml
+1372189523000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/menu/login.xml
+1372189523000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/values-v11/values.xml
+1372632616000 1217 1b11761dc60f2ebfc9c3e98b4ec9c74494441f93 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/values/values.xml
+1372189523000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/values-sw720dp-land/values.xml
+1372189523000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/menu/main.xml
+1372189523000 12356 75154d4f6e93c8832a74d3c27c8cf0d44672ea3e /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1372719068000 2790 dbe180d113e653f081a7a482287195fa6f47e147 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/layout/activity_login.xml
+1372706836000 2366 4dbd8e2886f99e59c7c8b7482ba8cef8453a5a4c /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/layout/activity_add_article.xml
+1372189523000 24780 6c2954bdacb8129ac00edfd084b98daf226518e3 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1372189523000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/menu/display_message.xml
+1372189523000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/values-v14/values.xml
+1372189523000 342 0ea8934a4834effd17751ed74bf7b2a1b0fc1ae5 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/values-large/values.xml
+1372189523000 7783 03172612ec7d8d2cc6295a185410c3e6501771aa /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/res/all/debug/drawable-hdpi/ic_launcher.png

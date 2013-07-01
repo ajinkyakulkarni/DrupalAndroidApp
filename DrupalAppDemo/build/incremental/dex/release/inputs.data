@@ -1,0 +1,25 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372197553000 488 575123ce32eb9c35cb7b52502185a61ace5feb23 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/R$menu.class
+1372197553000 470 aef94d093d60200d9d89fb0f31ed349bf650283d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/R$style.class
+1372197553000 4487 5135e8b23c07e5e5f5560b710d5334bcee7de8ec /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/MainActivity.class
+1371784907000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/libs/android-support-v4.jar
+1372197553000 618 fb7ebcbd87273ad4080ac537be9170e24b059022 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/R$string.class
+1371784992000 343 d57fe670fa726c585655b57c6ea9641ca5203918 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/BuildConfig.class
+1372197553000 4451 8d60c52cbae9ed97e08e30a22023754c9f41b610 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/MainActivity$FetchItems.class
+1372198192000 5343 0cc42be4190b8bd574dc1d8a5e83051ee33b57c5 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/AddArticle$addArticleTask.class
+1371784992000 404 6bfb21a00d7ba58f2398c37d781ce6116ea634ca /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/R$drawable.class
+1372197553000 4435 d831e8f83176a6d7deb85396a178b74b9f81eaa0 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/LoginActivity$LoginProcess.class
+1372197553000 4915 f70c5823134fa19653f061bc1b557b01f14c969f /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/MainActivity$DownloadFilesTask.class
+1372197553000 1357 b5ea2334e975d76a666799bff4bd190ae2210632 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/LoginActivity.class
+1372197553000 1722 9ac5321d97215ed9195c8704f50ff309bb1ea0b1 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/AddArticle.class
+1371842724000 1474 d0b2c4c127dca6bd84380841dcc176712815a7fd /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/DisplayMessageActivity.class
+1372197553000 217 147d2837057d13da9b250c596994314904369615 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/AddArticle$1.class
+1371926699000 223 b7b6cb87b1306942777bdb80174bc36bd90263e8 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/MainActivity$1.class
+1372192116000 226 b759be6f506fba8863f4b5215a8ac9e6a52a3412 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/LoginActivity$1.class
+1372197553000 531 744acb275fdf270796553016e5bc30208ea07f2c /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/R$layout.class
+1371784992000 458 0af3dc8f274ddbee09129a18c66a7f883a22cc4d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/R$dimen.class
+1371784992000 337 a20ca61c90a66f07e8d10e2db37a9872bbb32c74 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/R$attr.class
+1372197553000 760 d7002ce445a6378f8f9d575f633b35e78b436b89 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/R$id.class
+1372197553000 667 8b6ee2076ccc2eae76e39a8d437bcfb3e636b411 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/test1/build/classes/release/com/example/test1/R.class

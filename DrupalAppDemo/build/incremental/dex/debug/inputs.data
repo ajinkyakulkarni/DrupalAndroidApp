@@ -1,0 +1,42 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372706853000 404 6bfb21a00d7ba58f2398c37d781ce6116ea634ca /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/R$drawable.class
+1372719077000 494 4115e113b2269f4a071a16093880aa48f96f7cfc /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/R$style.class
+1372719077000 242 ee522f09d3107b7caff923290d98241a960dee5f /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/LoginActivity$1.class
+1372719077000 482 0df049a47243d235a330319f692916381384a059 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/R$dimen.class
+1372719077000 359 1b720520a1a2cd8be4bd923e90b23098c168ceaf /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/BuildConfig.class
+1372706853000 4230 791ce572fa22f10752f21296e960d1982388cb28 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/LoginActivity$LoginProcess.class
+1372706853000 223 f1bfdf3fcaf6f3e2a9da031fcd54830f8fbb9db6 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/ListActivity$1.class
+1372719077000 817 8946ee2ac6493bc43bfa0d0fa8d3e8f2a9474b5e /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/R$id.class
+1372706853000 337 a20ca61c90a66f07e8d10e2db37a9872bbb32c74 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/R$attr.class
+1372706853000 226 b759be6f506fba8863f4b5215a8ac9e6a52a3412 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/LoginActivity$1.class
+1372706852000 4875 7217022f3e6cdc1d234560bd78d9132b921b2813 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/AddArticle$addArticleTask.class
+1372706853000 1734 66421b88db5ea0f58b64d33b496bbfbe19aef720 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/AddArticle.class
+1372706853000 3705 b93e252de4daf35013ec2eea1b54464d833d2c90 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/ListActivity$FetchItems.class
+1372719077000 361 539cc1d4b947158040b2e452387813a7e22cbfbb /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/R$attr.class
+1372719077000 2117 6ec0ec5c249659ce52ca2edff13ee5472ee789bb /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/ListActivity.class
+1372719077000 4955 a9f0112a7bedf0e71afd64f26428a7b28db41081 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/AddArticle$addArticleTask.class
+1372719077000 512 cc503e8daab99c0b6d41bfe57c90c21dda6c1f5d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/R$menu.class
+1372194480000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/libs/android-support-v4.jar
+1372719077000 239 888230d53eff94a6ef5be174b3f32abaf3c7e9e4 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/ListActivity$1.class
+1372706853000 1369 fedbecb12e0a82da5ba0a66e7c3c4fa01ccbf2de /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/LoginActivity.class
+1372719077000 4310 8885f045d40dec12534d1506d31a5b5d78fd3b8f /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/LoginActivity$LoginProcess.class
+1372706853000 483 b46006970c442dd74dd8dd609252176b7c8305f3 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/R$layout.class
+1372706853000 458 0af3dc8f274ddbee09129a18c66a7f883a22cc4d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/R$dimen.class
+1372706853000 470 aef94d093d60200d9d89fb0f31ed349bf650283d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/R$style.class
+1372719077000 506 446569968a66da77514d2b2517c6f3c57ce89ec6 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/R$layout.class
+1372706853000 488 575123ce32eb9c35cb7b52502185a61ace5feb23 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/R$menu.class
+1372719077000 233 0823ca663fbad690c320c7680ffe72e19c5e8db5 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/AddArticle$1.class
+1372719077000 1417 20f97b5baafa95193244e5565cd5c99236a795e1 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/LoginActivity.class
+1372706853000 618 fb7ebcbd87273ad4080ac537be9170e24b059022 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/R$string.class
+1372706853000 2061 cbc9be955f47a8c00fb7d19630bc3a2b9354d06c /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/ListActivity.class
+1372706852000 217 147d2837057d13da9b250c596994314904369615 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/AddArticle$1.class
+1372719077000 428 df96e37aa9f198e0d05df0d1f03007bb884045d0 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/R$drawable.class
+1372706853000 667 8b6ee2076ccc2eae76e39a8d437bcfb3e636b411 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/R.class
+1372719077000 1782 5d85a283d2a8b2860df3fa32e79fd736e359a83b /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/AddArticle.class
+1372706853000 793 bd522015ce1dfa8a6bd46d2ddeac00a1802bd523 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/R$id.class
+1372719077000 3777 41a994d3fc5f92866674d6bd85b71731777a122a /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/ListActivity$FetchItems.class
+1372719077000 642 012ed3970fe4467c1dcf8db5d52f6805a29f445d /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/R$string.class
+1372706853000 343 8e5a1f63e1d2b9b6d39384d9aee2d0c56056eee5 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/test1/BuildConfig.class
+1372719077000 747 3735c9712d0c9a5b58e98073f3e4f3a0a2aab9a7 /Applications/Android Studio.app/sdk/samples/android-17/test1Project/DrupalAppDemo/build/classes/debug/com/example/DrupalAppDemo/R.class
